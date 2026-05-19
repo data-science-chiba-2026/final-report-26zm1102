@@ -16,3 +16,5 @@
 # But keep .gitkeep files so directory structure is tracked
 !/outputs/.gitkeep
 !/outputs/**/.gitkeep
+
+# Ignore output contents but keep placeholders
