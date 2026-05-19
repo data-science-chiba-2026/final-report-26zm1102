@@ -18,3 +18,5 @@
 !/outputs/**/.gitkeep
 
 # Ignore output contents but keep placeholders
+
+# Ignore outputs subdirs contents but keep placeholders
