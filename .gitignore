@@ -4,3 +4,8 @@
 # But keep .gitkeep files so directory structure is tracked
 !/output/.gitkeep
 !/output/**/.gitkeep
+
+# macOS and R ignores
+.DS_Store
+.Rhistory
+.Rproj.user/
