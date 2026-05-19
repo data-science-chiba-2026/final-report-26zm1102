@@ -1,6 +1,6 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-outputs
-.DS_Store
+# Ignore all files in output and subfolders
+/output/**
+
+# But keep .gitkeep files so directory structure is tracked
+!/output/.gitkeep
+!/output/**/.gitkeep
